@@ -2,6 +2,7 @@
 
 ![Demo App](/frontend/public/ChitChat.png)
 
+🔗 **Live Preview:** [https://chit-chat-psi-plum.vercel.app](https://chit-chat-psi-plum.vercel.app)
 
 Highlights:
 
